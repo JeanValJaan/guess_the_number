@@ -22,6 +22,3 @@ function isEqual () {
 function reload(){
     location.reload();
 }
-
-
-
